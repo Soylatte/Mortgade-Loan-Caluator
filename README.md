@@ -1,4 +1,4 @@
-# Mortgade-Loan-Caluator
+# mortgage-calculator
 
 # SKILLS
 - HTML
